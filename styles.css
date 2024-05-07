@@ -1,0 +1,16 @@
+div.heading {
+  width: 100vw;
+  background-color: gray;
+  /* padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 14px;
+  padding-right: 4px; */
+  padding: 10px 4px 20px 14px;
+}
+
+.about {
+  background-color: rgba(255, 0, 0, 0.2);
+}
+p {
+  color: rgb(0, 255, 55);
+}
